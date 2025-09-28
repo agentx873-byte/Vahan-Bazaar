@@ -56,6 +56,6 @@ The vehicle marketplace is often fragmented and lacks transparency. Buyers strug
 | Member 1 (Lead Dev)     | Project Lead           | Set up project structure, Frontend Developer and Design |
 | Member 2 (Frontend Dev) | UI/UX & Frontend Dev   | Designed UI using React + Tailwind, implemented vehicle listing & search.         |
 | Member 3 (Backend Dev)  | Backend Dev-Server     | Built REST APIs with Express, connected database, managed authentication.         |
-| Member 4 (DB Specialist)| Backend Developer,Setup| Designed schema, implemented agent-assisted features, created dashboard.          |
-| Member 5 (Tester/Docs)  | QA & Documentation     | Created README.md, maintained documentation, Githun repository     |
+| Member 4 (DB Specialist)| Backend Developer,Setup| Designed schema, implemented -AI-agent assisted features, created dashboard.          |
+| Member 5 (Tester/Docs)  | QA & Documentation     | Created README.md, maintained documentation, Github repository     |
 
