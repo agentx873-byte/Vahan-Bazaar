@@ -43,7 +43,7 @@ The vehicle marketplace is often fragmented and lacks transparency. Buyers strug
 - **Frontend:** React.js / Next.js, Tailwind CSS  
 - **Backend:** Node.js  
 - **Database:** MongoDB
-- - **Version Control:** Git & GitHub 
+- **Version Control:** Git & GitHub 
 
  
   
