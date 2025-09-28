@@ -1,4 +1,4 @@
-# 🚗 Vahan Bazaar - AgentX  
+# 🚗 Vahan Bazaar 
 
 ## 📌 Problem Statement  
 The vehicle marketplace is often fragmented and lacks transparency. Buyers struggle to find verified listings, sellers face challenges in reaching genuine buyers, and agents lack a streamlined system to assist transactions. Current solutions are either unorganized or fail to build trust among all parties.  
@@ -6,7 +6,7 @@ The vehicle marketplace is often fragmented and lacks transparency. Buyers strug
 ---
 
 ## 📌 Detailed Proposal & Prototype Plan  
-**Vahan Bazaar - AgentX** is a digital platform designed to simplify vehicle buying, selling, and agency services.  
+**Vahan Bazaar ** is a digital platform designed to simplify vehicle buying, selling, and agency services.  
 
 - **Phase 1: Research & Planning**  
   - Identify key pain points of buyers, sellers, and agents.  
