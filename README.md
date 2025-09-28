@@ -41,11 +41,12 @@ The vehicle marketplace is often fragmented and lacks transparency. Buyers strug
 
 ## 📌 Tech Stack  
 - **Frontend:** React.js / Next.js, Tailwind CSS  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB / PostgreSQL  
-- **Authentication:** JWT / OAuth  
-- **Deployment:** Vercel (frontend), Render/Heroku (backend)  
-- **Version Control:** Git & GitHub  
+- **Backend:** Node.js  
+- **Database:** MongoDB
+- - **Version Control:** Git & GitHub 
+
+ 
+  
 
 ---
 
