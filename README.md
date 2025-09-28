@@ -1,33 +1,64 @@
-# Vahan Bazaar 🚗🏍️
+# 🚗 Vahan Bazaar - AgentX  
 
-## Problem Statement
-Briefly explain the issue you are solving.  
-(Example: "Finding trustworthy platforms to buy/sell used bikes with proper verification...")
+## 📌 Problem Statement  
+The vehicle marketplace is often fragmented and lacks transparency. Buyers struggle to find verified listings, sellers face challenges in reaching genuine buyers, and agents lack a streamlined system to assist transactions. Current solutions are either unorganized or fail to build trust among all parties.  
 
-## Proposal & Prototype Plan
-- Explain your idea in detail.
-- Provide wireframes / diagrams if any.
-- Mention workflow and expected outcome.
+---
 
-## Features to be Implemented
-- User authentication (login/signup)
-- Post new/used bikes
-- Search & filter bikes
-- Compare bikes
-- Reviews & ratings
+## 📌 Detailed Proposal & Prototype Plan  
+**Vahan Bazaar - AgentX** is a digital platform designed to simplify vehicle buying, selling, and agency services.  
 
-## Tech Stack
-- **Frontend**: React.js / HTML / CSS / JavaScript
-- **Backend**: Node.js / Express.js
-- **Database**: MongoDB
-- **Version Control**: Git & GitHub
+- **Phase 1: Research & Planning**  
+  - Identify key pain points of buyers, sellers, and agents.  
+  - Draft wireframes and workflow diagrams.  
 
-## Contribution Details
-| Team Member | Contributions |
-|-------------|--------------|
-| Member 1 | Designed frontend UI, created components |
-| Member 2 | Developed backend APIs, authentication |
-| Member 3 | Integrated database, search & filter system |
-| Member 4 | Testing, documentation, bug fixes |
+- **Phase 2: Prototype Development**  
+  - Create an intuitive user interface with real-time vehicle listings.  
+  - Implement secure login and authentication.  
+  - Build backend APIs for data handling and agent-assisted transactions.  
+
+- **Phase 3: Testing & Refinement**  
+  - User testing to validate trust and transparency.  
+  - Optimize UI/UX and ensure smooth transactions.  
+
+- **Phase 4: Deployment**  
+  - Host frontend on **Vercel/Netlify**.  
+  - Host backend APIs on **Render/Heroku**.  
+  - Finalize database setup and secure data management.  
+
+---
+
+## 📌 Features to be Implemented  
+- 🔎 Vehicle search and filter with real-time listings.  
+- 🧾 Vehicle posting for sellers with detailed info and images.  
+- 🧑‍💼 Agent-assisted transactions with tracking system.  
+- 🔐 Secure authentication & data protection.  
+- 💬 Chat or inquiry system between buyers, sellers, and agents.  
+- 📊 Dashboard for agents to manage client interactions.  
+- 📱 Responsive design for mobile and desktop users.  
+
+---
+
+## 📌 Tech Stack  
+- **Frontend:** React.js / Next.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB / PostgreSQL  
+- **Authentication:** JWT / OAuth  
+- **Deployment:** Vercel (frontend), Render/Heroku (backend)  
+- **Version Control:** Git & GitHub  
+
+---
+
+## 📌 Contribution Details of Each Team Member  
+
+| **Team Member**        | **Role**               | **Contribution**                                                                 |
+|-------------------------|------------------------|-----------------------------------------------------------------------------------|
+| Member 1 (Lead Dev)     | Project Lead           | Set up project structure, managed GitHub repository, integrated frontend-backend. |
+| Member 2 (Frontend Dev) | UI/UX & Frontend Dev   | Designed UI using React + Tailwind, implemented vehicle listing & search.         |
+| Member 3 (Backend Dev)  | API Development        | Built REST APIs with Express, connected database, managed authentication.         |
+| Member 4 (DB Specialist)| Database & Agent Module| Designed schema, implemented agent-assisted features, created dashboard.          |
+| Member 5 (Tester/Docs)  | QA & Documentation     | Created README.md, maintained documentation, tested prototype & fixed issues.     |
 
 
+npm install
+npm start
