@@ -50,7 +50,6 @@ The vehicle marketplace is often fragmented and lacks transparency. Buyers strug
 ---
 
 ## 📌 Contribution Details of Each Team Member  
-
 | **Team Member**        | **Role**               | **Contribution**                                                                 |
 |-------------------------|------------------------|-----------------------------------------------------------------------------------|
 | Member 1 (Lead Dev)     | Project Lead           | Set up project structure, managed GitHub repository, integrated frontend-backend. |
@@ -59,6 +58,3 @@ The vehicle marketplace is often fragmented and lacks transparency. Buyers strug
 | Member 4 (DB Specialist)| Database & Agent Module| Designed schema, implemented agent-assisted features, created dashboard.          |
 | Member 5 (Tester/Docs)  | QA & Documentation     | Created README.md, maintained documentation, tested prototype & fixed issues.     |
 
-
-npm install
-npm start
